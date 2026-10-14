@@ -103,6 +103,6 @@ void ByteConverter::binChanged(const QString& newValue)
     else
     {
         hexEdit->setText("");
-        decEdit->setText("")
+        decEdit->setText("");
     }
 }
